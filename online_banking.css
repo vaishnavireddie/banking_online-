@@ -1,0 +1,11 @@
+ h1{
+    color : black;
+    font-size: 50px;
+    text-align: left ;
+}
+body{
+    background-image: url("sun-pattern.png");
+}
+main{
+    text-align: center;
+}
